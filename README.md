@@ -6,4 +6,6 @@ Checkout the original repo for more information https://github.com/daylerees/col
 
 Thanks Dayle!
 
+Listed as Cs-Slate-Syntax on apm
+
 ![A screenshot of your theme](screenshot.png)
