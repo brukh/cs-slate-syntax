@@ -1,0 +1,15 @@
+{
+  "name": "slate-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Theme by Dayle Rees 👍 https://github.com/daylerees/colour-schemes",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/brukh/slate-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
