@@ -6,4 +6,4 @@ Checkout the original repo for more information https://github.com/daylerees/col
 
 Thanks Dayle!
 
-![A screenshot of your theme](screenshot.png)
+![A screenshot of your theme](./screenshot.png)
