@@ -1,13 +1,13 @@
 {
-  "name": "slate-syntax",
+  "name": "cs-slate-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "Theme by Dayle Rees 👍 https://github.com/daylerees/colour-schemes",
+  "description": "Minimal dark syntax theme by Dayle Rees 👍",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/brukh/slate-syntax",
+  "repository": "https://github.com/brukh/cs-slate-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
